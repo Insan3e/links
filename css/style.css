@@ -247,7 +247,7 @@ a:hover {
   –––––––––––––––––––––––––––––––––––––––––––––––––– */
 /* Light theme is default above */
 
-/* Dark theme */
+/* Dark theme 
 :root.theme-dark {
 	color-scheme:dark;
 }
@@ -266,7 +266,7 @@ a:hover {
 	color:#7AB8FF;
 }
 
-/* Auto theme */
+/* Auto theme
 :root.theme-auto {
 	color-scheme:light dark;
 }
@@ -286,7 +286,7 @@ a:hover {
 	color:#7AB8FF;
 }
 }
-
+*/
 /* Button Text Color Override
     –––––––––––––––––––––––––––––––––––––––––––––––––– */
     .button:hover,button:hover {
